@@ -7,7 +7,7 @@
    Script to download NYC Taxi data and upload it to Google Cloud Storage.
 
 3. **`main.py`**  
-   Cloud Function code to load Parquet files into BigQuery.
+   Cloud Function to load data files from Storage into BigQuery.
 
 4. **`requirements.txt`**  
    Python dependencies for the Cloud Function.
