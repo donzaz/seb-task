@@ -13,10 +13,11 @@
 
 4. **`requirements.txt`**  
    Python dependencies for the Cloud Function.
+---
 
 These are steps required to set up a data pipeline to process NYC Taxi data using Google Cloud.
 
----
+
 
 ## **Steps**
 
