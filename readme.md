@@ -1,3 +1,5 @@
+# NYC Taxi Data Pipeline
+
 ## **Files**
 
 1. **`readme.md`**  
@@ -11,9 +13,6 @@
 
 4. **`requirements.txt`**  
    Python dependencies for the Cloud Function.
-
-
-# NYC Taxi Data Pipeline: README
 
 These are steps required to set up a data pipeline to process NYC Taxi data using Google Cloud.
 
